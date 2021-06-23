@@ -1,2 +1,5 @@
 # Python-ROGUE-GAME
-![rogue game] (img_game.gif)
+
+<img src="img_game.gif"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
